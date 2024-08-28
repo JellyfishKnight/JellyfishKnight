@@ -1,14 +1,20 @@
 ## Hi there 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JellyfishKnight)
+
+- 🔭 I’m currently working on ROS2 and state estimation and traditional computer vision
+- 🌱 I’m currently learning OpenGL and Graphics and Other tech about Computer Game and Robots
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JellyfishKnight)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 <!--
 **JellyfishKnight/JellyfishKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
