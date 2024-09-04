@@ -4,7 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JellyfishKnight)
 
 - 🔭 I’m currently working on ROS2 and state estimation and traditional computer vision
-- 🌱 I’m currently learning OpenGL and Graphics and Other tech about Computer Game and Robots
+- 🌱 I’m currently learning Unreal Engine 5 and Graphics and Other tech about Computer Games and Robots
+- 😄 I'm more interested about software development, cause I like to make something useful
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JellyfishKnight)
 
