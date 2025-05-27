@@ -3,9 +3,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JellyfishKnight)
 
-- 🔭 I’m currently working on ROS2 and state estimation and traditional computer vision
-- 🌱 I’m currently learning Unreal Engine 5 and Graphics and Other tech about Computer Games and Robots
-- 😄 I'm more interested about software development, cause I like to make something useful
+- 🔭 I’m currently working on Rust Language and full stack development.
+- 🌱 I’m currently learning about VR, so I would like to communication with more way to track eyes for face.
+- 😄 I'm more interested about software development, cause I like to make something useful.
+- ⚡ Fun fact: I used to join the competition of RoboMaster, so we can communication about autoaim technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JellyfishKnight)
 
